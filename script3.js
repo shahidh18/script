@@ -5,6 +5,4 @@
     console.log("iam shahidh");
     
 }
-funtion a(){
-console.log("a")
-}
+funtion a()
