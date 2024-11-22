@@ -5,4 +5,3 @@
     console.log("iam shahidh");
     
 }
-funtion a(){}
